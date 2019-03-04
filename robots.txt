@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://cloudonly.github.io/sitemap.xml
