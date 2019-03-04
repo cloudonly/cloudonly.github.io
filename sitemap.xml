@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="http://cloudonly.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://cloudonly.github.io/post/jane-theme-preview.zh-cn/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://cloudonly.github.io/post/jane-theme-preview/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://cloudonly.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cloudonly.github.io/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cloudonly.github.io/categories/docs/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cloudonly.github.io/categories/index/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cloudonly.github.io/post/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cloudonly.github.io/tags/preview/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cloudonly.github.io/tags/shortcodes/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cloudonly.github.io/categories/shortcodes/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cloudonly.github.io/tags/tag-6/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cloudonly.github.io/tags/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
